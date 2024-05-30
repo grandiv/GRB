@@ -1,1 +1,1 @@
-"# GRB" 
+This repository contains the expanded database design for Good Reading Book Online Retail Store created with ERD Tool on pgAdmin4. The database schema and other DML such as insertion and transaction control language are provided. The database schema contains not only tables, but also views. The SQL queries are divided into blocks of code so that it can be executed one by one and you can query to see how it affects the database. The TCL demonstrate 3 TCL commands: COMMIT, ROLLBACK, and SAVEPOINT.
